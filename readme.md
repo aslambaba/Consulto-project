@@ -1,5 +1,5 @@
-### Deploy on Surge !!
-- aslambaba-consulto-project.surge.sh
+### Deploy on Netlify !!
+- aslambaba-consulto-project.netlify.app
 
 ### Using Languages
 - HTML5
